@@ -1,6 +1,6 @@
 ## About ME
 - Name : Shoma KANNO
-- Age : 22
+- Age : 23
 
 ---
 
